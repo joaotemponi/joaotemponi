@@ -35,15 +35,6 @@
 
 ---
 
-## 🏆 Conquistas  
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaotemponi&theme=onedark&no-frame=true&row=1&column=6&margin-w=10&margin-h=15)
-
-</div>
-
----
-
 ## 🌎 Onde me encontrar  
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3opedrotemponi/" target="_blank">
