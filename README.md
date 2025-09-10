@@ -44,7 +44,7 @@
 ## 🌎 Onde me encontrar
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/joaotemponi](https://www.linkedin.com/in/jo%C3%A3opedrotemponi/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3opedrotemponi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:joao3gamerbr@gmail.com" target="_blank">
