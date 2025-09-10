@@ -44,13 +44,13 @@
 ## 🌎 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joaotemponi" target="_blank">
+  <a href="[https://www.linkedin.com/in/joaotemponi](https://www.linkedin.com/in/jo%C3%A3opedrotemponi/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:joao3gamerbr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/joãotemponi" target="_blank">
+  <a href="https://github.com/joaotemponi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
