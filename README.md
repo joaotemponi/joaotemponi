@@ -18,8 +18,7 @@
 
 ## 📌 Projetos em destaque  
 - **📚 Sistema de Biblioteca Escolar** – Aplicação web para cadastro de livros, alunos e controle de empréstimos  
-- **🤖 Automação WhatsApp** – Micro SaaS para automação de mensagens e vendas  
-- **🎮 Jogo 3D com Three.js** – Game interativo com `view.js`, `controller.js` e `model.js`  
+- **🤖 Automação WhatsApp** – Automação de mensagens e vendas  
 
 ---
 
@@ -27,7 +26,7 @@
 <div align="center">
 
 <a href="https://github.com/joaotemponi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=profRenatoOliveira1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaotemponi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotemponi&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
 </a>
 
