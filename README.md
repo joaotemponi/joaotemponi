@@ -21,8 +21,7 @@
 
 ## 📌 Projetos em destaque
 🔹 **📚 Sistema de Biblioteca Escolar** – Aplicação web para cadastro de livros, alunos e controle de empréstimos  
-🔹 **🤖 Automação WhatsApp** – Micro SaaS para automação de mensagens e vendas  
-🔹 **🎮 Jogo 3D com Three.js** – Game interativo com `view.js`, `controller.js` e `model.js`  
+🔹 **🤖 Automação WhatsApp** – Automação de mensagens e vendas    
 
 ---
 
