@@ -26,12 +26,13 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 <div align="center">
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotemponi&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff0055&icon_color=ff0055)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotemponi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0055)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaotemponi&theme=radical&hide_border=true&background=0D1117&ring=ff0055&fire=ff0055&currStreakLabel=ff0055)  
+<a href="https://github.com/joaotemponi">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaotemponi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotemponi&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
@@ -40,7 +41,7 @@
 ## 🏆 Conquistas
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaotemponi&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaotemponi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=15)
 
 </div>
 
