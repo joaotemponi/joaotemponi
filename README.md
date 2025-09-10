@@ -6,7 +6,6 @@
 - 🔧 Atualmente desenvolvendo projetos como:
   - **Sistema de Biblioteca Escolar**  
   - **Sistema de automação de vendas para WhatsApp**  
-  - **Jogo em JavaScript com Three.js**  
 - 🎯 Apaixonado por tecnologia, programação, games e inovação  
 
 ---
