@@ -5,7 +5,7 @@
 - 🚀 Interesse em criar soluções inteligentes usando **IA**  
 - 🔧 Atualmente desenvolvendo projetos como:
   - **Sistema de Biblioteca Escolar**  
-  - **Micro SaaS de automação de vendas para WhatsApp**  
+  - **Sistema de automação de vendas para WhatsApp**  
   - **Jogo em JavaScript com Three.js**  
 - 🎯 Apaixonado por tecnologia, programação, games e inovação  
 
@@ -15,7 +15,7 @@
 
 - 🔎 Busco sempre aprender algo novo e evoluir na prática.  
 - 📢 Acredito que compartilhar conhecimento é uma das melhores formas de aprender.  
-- 🎮 Nos momentos de lazer gosto de jogar e explorar novas tecnologias em forma de games.  
+- 🎮 Nos momentos de lazer gosto de jogar e explorar novas tecnologias.  
 
 ---
 
@@ -30,7 +30,7 @@
 ## 📌 Projetos em destaque
 
 - **📚 Sistema de Biblioteca Escolar** – Aplicação web para cadastro de livros, alunos e controle de empréstimos.  
-- **🤖 Micro SaaS - Automação WhatsApp** – Plataforma para automação de mensagens e vendas.  
+- **🤖 Sistema de Automação WhatsApp** – Plataforma para automação de mensagens e vendas.  
 - **🎮 Jogo 3D com Three.js** – Game interativo usando `view.js`, `controller.js` e `model.js`.  
 
 ---
