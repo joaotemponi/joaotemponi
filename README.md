@@ -18,7 +18,8 @@
 
 ## 📌 Projetos em destaque  
 - **📚 Sistema de Biblioteca Escolar** – Aplicação web para cadastro de livros, alunos e controle de empréstimos  
-- **🤖 Automação WhatsApp** – Automação de mensagens e vendas  
+- **🤖 Automação WhatsAp** – Automação de mensagens e vendas  
+- **
 
 ---
 
