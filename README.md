@@ -18,8 +18,7 @@
 
 ## 📌 Projetos em destaque  
 - **📚 Sistema de Biblioteca Escolar** – Aplicação web para cadastro de livros, alunos e controle de empréstimos  
-- **🤖 Automação WhatsAp** – Automação de mensagens e vendas  
-- **
+- **🤖 Sistema de Loja de Roupa** – Loja de roupas  
 
 ---
 
