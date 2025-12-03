@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=30&center=true&vCenter=true&width=1000&lines=Olá+sou+Joao+Temponi)](https://git.io/typing-svg)
 
 ## 🚀 Sobre mim  
-- 🎓 Estudante de **Desenvolvimento de Sistemas** no SENAI  
+- 🎓 Técnico em Desenvolvimento de Sistemas  
 - 💻 Experiência em **Frontend e Backend**  
 - 🤖 Interesse em **IA aplicada a sistemas**  
 - 🎯 Apaixonado por **tecnologia, programação, games e inovação**  
