@@ -21,17 +21,6 @@
 - **🗃️SoulFashion** – Loja de roupas com sistema de cadastros e provador inteligente.
 - **🚜AgroIntel** - Sistema de planejamento de safra com IA.
 
----
-
-## 📊 Minhas Estatísticas  
-<div align="center">
-
-<a href="https://github.com/joaotemponi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaotemponi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotemponi&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 
