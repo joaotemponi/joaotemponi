@@ -21,7 +21,7 @@
 
 - **🗃️ SoulFashion** – Plataforma para loja de roupas, com cadastro de produtos, clientes e funcionários, além de um provador inteligente que sugere o tamanho e melhora a experiência do usuário.
 
-**🚜 AgroIntel** – Sistema de apoio ao planejamento de safra, utilizando IA para analisar dados agrícolas, prever produtividade e auxiliar na tomada de decisões estratégicas para agricultores.
+- **🚜 AgroIntel** – Sistema de apoio ao planejamento de safra, utilizando IA para analisar dados agrícolas, prever produtividade e auxiliar na tomada de decisões estratégicas para agricultores.
 
 ---
 
