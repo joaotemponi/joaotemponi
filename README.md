@@ -17,10 +17,11 @@
 ---
 
 ## 📌 Projetos em destaque  
-- **📚 BiblioManager** – Sistema de biblioteca escolar com aplicação CRUD para livros, alunos e controle de empréstimos.
-- **🗃️SoulFashion** – Loja de roupas com sistema de cadastros e provador inteligente.
-- **🚜AgroIntel** - Sistema de planejamento de safra com IA.
+- **📚 BiblioManager** – Sistema de gestão para bibliotecas escolares, incluindo cadastro e controle de livros, alunos, empréstimos e devoluções, com interface intuitiva e operações CRUD completas.
 
+- **🗃️ SoulFashion** – Plataforma para loja de roupas, com cadastro de produtos, clientes e funcionários, além de um provador inteligente que sugere o tamanho e melhora a experiência do usuário.
+
+**🚜 AgroIntel** – Sistema de apoio ao planejamento de safra, utilizando IA para analisar dados agrícolas, prever produtividade e auxiliar na tomada de decisões estratégicas para agricultores.
 
 ---
 
