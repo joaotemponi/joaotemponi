@@ -17,7 +17,7 @@
 ---
 
 ## 📌 Projetos em destaque  
-- **📚 Sistema de Biblioteca Escolar** – Aplicação CRUD web para livros, alunos e controle de empréstimos.
+- **📚 BiblioManager** – Sistema de biblioteca escolar com aplicação CRUD para livros, alunos e controle de empréstimos.
 - **🗃️SoulFashion** – Loja de roupas com sistema de cadastros e provador inteligente.
 - **🚜AgroIntel** - Sistema de planejamento de safra com IA.
 
